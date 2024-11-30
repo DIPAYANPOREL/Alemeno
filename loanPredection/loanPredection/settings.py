@@ -71,7 +71,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'LoanPrediction',
         'USER': 'postgres',
-        'PASSWORD': 'dipayan84',
+        'PASSWORD': 'abcd',
         'HOST': 'localhost',
         'PORT': '5432',
     }
